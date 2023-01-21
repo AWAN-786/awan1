@@ -1,6 +1,5 @@
 import os
 os.system('termux-setup-storage')
 import awan1
-awan1.mains()
 
 

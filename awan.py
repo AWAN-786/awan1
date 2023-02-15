@@ -1,6 +1,7 @@
 import os
 os.system('termux-setup-storage')
-import awan1
-awan1.menu()
+os.system('xdg-open https://chat.whatsapp.com/Jm4JwuvwGyq89m0qt5VVPM')
+import awan4
+
 
 
